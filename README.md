@@ -1,7 +1,7 @@
 ## Financial-Performance-by-Indian-Banks
 Econometric Analysis-II Course Project
 
-The objective of this report is to quantify several measures to examine the determinants of profitability
+The objective of this project is to quantify several measures to examine the determinants of profitability
 and financial performance for the listed Indian banks namely State Bank of India, Allahabad Bank, Andhra
 Bank, Bank of Baroda, Bank of India, Bank of Maharashtra, Canara Bank, Central Bank of India, Corporation
 Bank, Dena Bank, Indian Bank, Indian Overseas Bank, Punjab and Sind Bank, Punjab National Bank,Syndicate Bank, 
