@@ -1,4 +1,4 @@
-## Financial-Performance-by-Indian-firms
+## Financial-Performance-by-Indian-Banks
 Econometric Analysis-II Course Project
 
 The objective of this report is to quantify several measures to examine the determinants of profitability
